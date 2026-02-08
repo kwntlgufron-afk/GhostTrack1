@@ -26,6 +26,25 @@ pip3 install -r requirements.txt
 python3 GhostTR.py
 ```
 
+### Another Tools
+```
+!pkg install git
+!pkg install python3
+!git clone https://github.com/kwntlgufron-afk/GhostTrack1.git
+%cd /content/GhostTrack1
+!ls
+!pip3 install -r requirements.txt
+!python3 GhostTR.py
+```
+
+### Another Tools {Commands}
+```
+!ls <for see file in path>
+!pkg <installed app>
+%cd /content/Folder_Name <For Go To Folder And Setting Path Folder>
+```
+
+
 Display on the menu ```IP Tracker```
 
 <img src="https://github.com/kwntlgufron-afk/GhostTrack1/blob/main/asset/ip.png " />

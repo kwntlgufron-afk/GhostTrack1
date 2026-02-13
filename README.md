@@ -66,6 +66,11 @@ Display on the menu ```Username Tracker```
 <img src="https://github.com/kwntlgufron-afk/GhostTrack1/blob/main/asset/User.png"/>
 on this menu you can search for information from the target username on social media
 
+Display on the menu ```Self Ip Addres```
+
+<img src="https://github.com/kwntlgufron-afk/GhostTrack1/blob/main/asset/selfip.png"/>
+this menu track your ip andress real time
+
 <details>
 <summary>:zap: Author :</summary>
 - <strong><a href="https://github.com/kwntlgufron-afk">HunxByts</a></strong>
